@@ -6,7 +6,10 @@ This app has integration of firebase for email and password authentication.
 User can create a new account and also login using registered email and password.
 
 ## Screenshots
+Application Video Gif:
 <img src="https://github.com/DharmikPansuriya/FirebaseAuth/blob/main/screenshots/video-gif.gif" width="240" height="500"/>
+
+Firebase Console:
 <img src="https://github.com/DharmikPansuriya/FirebaseAuth/blob/main/screenshots/Firebase%20Console.png" width="900" height="500"/>
 
 ## Tech Stack
