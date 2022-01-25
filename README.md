@@ -12,7 +12,7 @@ Application Video Gif:
 
 Firebase Console:
 
-<img src="https://github.com/DharmikPansuriya/FirebaseAuth/blob/main/screenshots/Firebase%20Console.png" width="900" height="500"/>
+<img src="https://github.com/DharmikPansuriya/FirebaseAuth/blob/main/screenshots/Firebase%20Console.png" width="900" height="480"/>
 
 ## Tech Stack
 
