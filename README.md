@@ -7,7 +7,7 @@ User can create a new account and also login using registered email and password
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/DharmikPansuriya/FirebaseAuth/blob/main/screenshots/video-gif.gif)
 
 
 ## Tech Stack
