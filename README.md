@@ -7,7 +7,7 @@ User can create a new account and also login using registered email and password
 
 ## Screenshots
 <img src="https://github.com/DharmikPansuriya/FirebaseAuth/blob/main/screenshots/video-gif.gif" width="240" height="500"/>
-<img src="https://github.com/DharmikPansuriya/FirebaseAuth/blob/main/screenshots/Firebase%20Console.png" width="500" height="240"/>
+<img src="https://github.com/DharmikPansuriya/FirebaseAuth/blob/main/screenshots/Firebase%20Console.png" width="1280" height="800"/>
 
 ## Tech Stack
 
